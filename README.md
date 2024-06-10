@@ -1,16 +1,27 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15245790&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: a  branch of computer science that focuses on designing developing,mantainingand mantaining software applications
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+software engineering is based on computer science,information science,discrete mathematics while traditional programming is  mainly based on science and mathematics
+
+Software Development Life Cycle (SDLC): is a structured process used to design ,develop and test good quality software
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:
+planning and analysis -gathering business requirements
+define requirements-converting required information into clear requirements
+design-planning software overall structure and finer details
+development -creating the software
+testing -ensuring that the software work as expected
+deployment- ensuring that the software is available for user
+maintenance-support and maintaining the software
+Agile vs. Waterfall Models: Agile is incremental and iteractive while waterfall is linear and sequential
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
